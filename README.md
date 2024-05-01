@@ -78,11 +78,11 @@ The design is available in Figma: [Link to design](https://www.figma.com/file/xA
   - [ ] Git commit history.
 
 ## Submission:
-  - [ ] Create a new repositoryusing this template.
+  - [ ] Create a new **private** repository using this template keeping the name **web_mobile_test**.
   - [ ] Commit your code to the repository.
-  - [ ] Update the README.md file with the instructions to run the applications.
+  - [ ] Update the README.md file with your personal information (Full name, contact info, etc.) and the instructions to run the applications.
   - [ ] Include screenshots of the apps running.
   - [ ] Create a release with the tag `v1.0.0` in the repository.
       - [ ] Include an apk file for the Flutter app.
       - [ ] Deploy the React app to a hosting service of your choice like Vercel, Netlify, etc.
-  - [ ] Send the repository link to the email address martinchavezdelgado@gmail.com using the subject "Xilion Test Submission" and your full name and contact information in the body of the email.
+  - [ ] Add the users `Noel-S` and `MartinChavez-Ikigo` as collaborators in the repository.
