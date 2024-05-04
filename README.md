@@ -65,6 +65,8 @@ The design is available in Figma: [Link to design](https://www.figma.com/file/xA
   - [ ] When the user clicks on a country item, the map should display the location of the country (use the file `locations.json` to get the coordinates of the countries) and display the name of the country at the top.
   - [ ] The map should display a marker at the location of the country.
   - [ ] When the user clicks on the country item, the current country should be persisted in the local storage and displayed when the user closes and reopens the app.
+  - [ ] The user should be able to search for a country by name (implement this with your own logic).
+  - [ ] Add a button to the country element in the list and navigate to a new screen in another window with some details of the country (implement this with your own logic).
 
 ## Evaluation Criteria:
   - [ ] Code quality and organization.
